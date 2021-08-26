@@ -1,7 +1,7 @@
 ### Oi, tudo bem?! Eu sou o Oman 👋
 
 
-- 🌱 Estou aprendendo HTML5, CSS3 e JS, para trabalhar na área de Front-End
+- 🌱 Estou aprendendo HTML5, CSS3 e JS para começar a entrar na área de Front-End
 - 📫 Contato: omanmoura@outlook.com / omanmoura@gmail.com
 
 Meus dados:
