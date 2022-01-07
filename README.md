@@ -3,7 +3,7 @@
 
 - 🌱 Estou aprendendo HTML5, CSS3 e JS, pois almejo trabalhar na área de Front-End
 - 📚 Cursando Bacharelado em Tecnologia da Informação - UFRN
-- 📫 Contato: omanmoura@outlook.com / omanmoura@gmail.com
+- 📫 Contato: omanmoura@gmail.com
 
 Meus dados:
 <div>
