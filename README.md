@@ -1,7 +1,7 @@
 ### Oi, tudo bem?! Me chamo Oman 👋
 
 
-- 🌱 Estou aprendendo HTML5, CSS3 e JS, pois almejo trabalhar na área de Front-End
+- 🌱 Estou aprendendo HTML5, CSS3 e JS, pois almejo trabalhar na área de web Front-End
 - 📚 Cursando Bacharelado em Tecnologia da Informação - UFRN
 - 📫 Contato: omanmoura@gmail.com
 
