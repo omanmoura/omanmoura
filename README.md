@@ -1,4 +1,4 @@
-### Oi, tudo bem?! Me chamo Oman 👋
+### Oi, tudo bem? 👋
 
 
 - 🌱 No momento, estou aprendendo HTML5, CSS3 e JS
