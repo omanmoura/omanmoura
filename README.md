@@ -1,8 +1,8 @@
 ### Oi, tudo bem? 👋
 
 
-- 🌱 No momento, estou aprendendo HTML5, CSS3 e JS
-- 📚 Cursando Bacharelado em Tecnologia da Informação - UFRN
+- 🌱 No momento, estou aprofundando meus conhecimentos na área de Análise de Dados
+- 📚 EBAC - Profissão: Análise de dados
 - 📫 Contato: omanmoura@gmail.com
 
 Meus dados:
