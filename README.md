@@ -1,11 +1,11 @@
-### Oi, tudo bem? 👋
+### Hi! 👋
 
 
-- 🌱 No momento, estou aprofundando meus conhecimentos na área de Análise de Dados
+- 🌱 I'm studying and improving my knowledge in Data Analysis
 - 📚 EBAC - Profissão: Análise de dados
-- 📫 Contato: omanmoura@gmail.com
+- 📫 E-mail: omanmoura@gmail.com
 
-Meus dados:
+My data:
 <div>
   <a href="https://github.com/omanmoura">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omanmoura&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
