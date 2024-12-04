@@ -2,7 +2,8 @@
 
 
 - 🌱 I'm studying and improving my knowledge in Data Analysis
-- 📚 EBAC - Profissão: Análise de dados
+- 📚 USP/ESALQ - MBA in Data Science & Analytics
+- 📚 EBAC - Data Analysis
 - 📫 E-mail: omanmoura@gmail.com
 
 My data:
